@@ -1,32 +1,32 @@
-# Analisis Data Kasus Bunuh Diri by Dimas Bayu Nugroho and [![DeepSeek Logo](https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/icons-static-png/dark/deepseek-color.png)](https://deepseek.com)
+# 🧠 Analisis Data Kasus Bunuh Diri
 
+by Dimas Bayu Nugroho & DeepSeek-V3
 
-Proyek ini berisi analisis data kasus bunuh diri berdasarkan dataset `jml_kejadian_bunuh_diri__des_kel.csv` Berikut adalah fitur-fitur yang tersedia:
+Analisis data kasus bunuh diri di Indonesia menggunakan Python & DeepSeek-V3 — fokus pada eksplorasi, visualisasi, dan pemahaman distribusi kasus berdasarkan wilayah.
 
-## Instalasi
+## 📦 Dataset
 
-1. Clone repository ini di Google Colab:
+Dataset yang dianalisis: `jml_kejadian_bunuh_diri__des_kel.csv`
+
+## 🚀 Instalasi
+
+Jalankan perintah berikut di Google Colab atau terminal:
+
 ```bash
-!git clone https://github.com/username/repository.git
+!git clone https://github.com/DimasVSuper/algoritma-data-science-semester-1-project
+```
 
-## Fitur Utama
-
-1. **Import Library**: Mengimpor library yang diperlukan seperti pandas dan matplotlib
-2. **Load Data**: Memuat data dari file CSV
-3. **Analisis Kabupaten/Kota**:
-   - Mencari kabupaten/kota dengan jumlah kasus terbanyak
-   - Mencari kabupaten/kota dengan jumlah kasus terendah
-4. **Visualisasi Data**:
-   - Bar chart untuk kasus per kabupaten/kota
-   - Pie chart untuk persentase kasus per kabupaten/kota
-5. **Analisis Persentase**: Menghitung persentase kasus per kabupaten/kota
-6. **Analisis Tren**: Menganalisis tren jumlah kasus per tahun
-7. **Analisis Kecamatan**: Menganalisis kasus bunuh diri per kecamatan
-8. **Analisis Kasus Nol**: Mencari kabupaten/kota dan kecamatan tanpa kasus
-9. **Perbandingan Tahun**: Membandingkan jumlah kasus antara dua tahun tertentu
-10. **Statistik Deskriptif**: Menghitung statistik deskriptif untuk kasus per kabupaten/kota dan kecamatan
-11. **Top 5 Kecamatan & Desa**: Mencari 5 kecamatan dan desa dengan jumlah kasus terbanyak
-
-## Output
-
-Proyek ini menghasilkan berbagai file output berupa CSV, gambar, dan file teks yang berisi hasil analisis.
+## 🔍 Fitur Utama
+- 📚 Import Library: Mengimpor library yang diperlukan: pandas, matplotlib, seaborn, dll.
+- 📂 Load Data: Memuat data dari file .csv.
+- 🏙️ Analisis Kabupaten/Kota: Menampilkan kabupaten/kota dengan jumlah kasus terbanyak dan terendah.
+- 📊 Visualisasi Data:
+- Bar chart jumlah kasus per kabupaten/kota
+- Pie chart persentase kasus per wilayah
+- 📈 Analisis Tren: Tren jumlah kasus bunuh diri per tahun
+- 🏘️ Analisis Kecamatan & Desa:
+- Distribusi kasus per kecamatan
+- Top 5 kecamatan dan desa dengan jumlah kasus tertinggi
+- ❌ Analisis Kasus Nol: Menemukan kabupaten/kota/kecamatan tanpa kasus sama sekali
+- 📉 Perbandingan Tahun: Membandingkan jumlah kasus antara dua tahun pilihan
+- 📊 Statistik Deskriptif: Statistik (rata-rata, median, min, max) kasus per kabupaten/kota dan kecamatan
