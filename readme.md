@@ -8,11 +8,11 @@ Analisis data kasus bunuh diri di Indonesia menggunakan Python & DeepSeek-V3 —
 
 - **Nama Anggota:**
   1. Ali Derajat Alba Ferrari (19240752) (Assistant)
-  2. Ahmad Al Kausary (19241316)
+  2. Ahmad Al Kausary (19241316) (Assistant)
   3. Muhamad Rizal Gunawan (19241609) (Documenter)
-  4. Muhammad Fadlah Zamzami (19241089) (Assistant)
+  4. Muhammad Fadlah Zamzami (19241089) (Documenter)
   5. Ardhi Fadli Lesmana (19241004) (Koordinator PowerPoint)
-  6. Ridho Febriano Majid (19241740) 
+  6. Ridho Febriano Majid (19241740) (Assistant)
   7. Dimas Bayu Nugroho (19240384) (Coder)
 
 
