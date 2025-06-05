@@ -15,6 +15,23 @@ Analisis data kasus bunuh diri di Indonesia menggunakan Python & DeepSeek-V3 —
   6. Ridho Febriano Majid (19241740) (Assistant)
   7. Dimas Bayu Nugroho (19240384) (Coder & Researcher)
 
+## Tujuan Proyek
+Proyek ini bertujuan untuk memberikan pemahaman yang lebih mendalam mengenai distribusi, tren, dan pola kasus bunuh diri di Jawa Barat berdasarkan data desa/kelurahan. Dengan memanfaatkan Python, analisis ini mencakup eksplorasi data, visualisasi interaktif, serta identifikasi wilayah rawan dan faktor-faktor yang mungkin berkontribusi terhadap jumlah kasus. Hasil analisis diharapkan dapat menjadi dasar edukasi, advokasi, dan pengambilan keputusan dalam upaya pencegahan bunuh diri di tingkat lokal maupun regional.
+
+## ℹ️ Referensi & Edukasi
+
+- [Tentang Pencegahan Bunuh Diri (NIMH)](https://www.nimh.nih.gov/health/topics/suicide-prevention)
+
+- [WHO: Suicide Prevention](https://www.who.int/health-topics/suicide#tab=tab_1)  
+  Informasi global dan strategi pencegahan bunuh diri dari World Health Organization.
+
+- [CDC: Suicide Prevention](https://www.cdc.gov/suicide/index.html)  
+  Sumber edukasi, data, dan pencegahan bunuh diri dari Centers for Disease Control and Prevention (CDC).
+
+- [Into The Light Indonesia](https://intothelightid.org/)  
+  Komunitas pencegahan bunuh diri dan kesehatan mental di Indonesia, menyediakan edukasi dan advokasi.
+
+
 
 ## 📦 Dataset
 
