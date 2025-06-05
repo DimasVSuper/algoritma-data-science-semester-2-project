@@ -13,7 +13,7 @@ Analisis data kasus bunuh diri di Indonesia menggunakan Python & DeepSeek-V3 —
   4. Muhammad Fadlah Zamzami (19241089) (Documenter)
   5. Ardhi Fadli Lesmana (19241004) (Koordinator PowerPoint)
   6. Ridho Febriano Majid (19241740) (Assistant)
-  7. Dimas Bayu Nugroho (19240384) (Coder)
+  7. Dimas Bayu Nugroho (19240384) (Coder & Researcher)
 
 
 ## 📦 Dataset
