@@ -43,3 +43,8 @@ Jalankan perintah berikut di Google Colab atau terminal:
 - ❌ Analisis Kasus Nol: Menemukan kabupaten/kota/kecamatan tanpa kasus sama sekali
 - 📉 Perbandingan Tahun: Membandingkan jumlah kasus antara dua tahun pilihan
 - 📊 Statistik Deskriptif: Statistik (rata-rata, median, min, max) kasus per kabupaten/kota dan kecamatan
+
+## Tambahan
+
+- 🔗 [Dashboard Interaktif (Vite + React) dan FASTApi(Python Frameworok)](https://github.com/DimasVSuper/dashboard-projek-algoritma-data-science)  
+  Dashboard visualisasi interaktif berbasis web untuk eksplorasi data lebih lanjut.
