@@ -8,12 +8,9 @@ Analisis data kasus bunuh diri di Indonesia menggunakan Python & Github Copilot 
 
 - **Nama Anggota:**
   1. Ali Derajat Alba Ferrari (19240752) (Documenter) 📝
-  2. Ahmad Al Kausary (19241316) (Assistant) 🤝
   3. Muhamad Rizal Gunawan (19241609) (Documenter) 📝
   4. Muhammad Fadlah Zamzami (19241089) (Documenter) 📝
-  5. Ardhi Fadli Lesmana (19241004) (Koordinator PowerPoint) 📽️
-  6. Ridho Febriano Majid (19241740) (Assistant) 🤝
-  7. Dimas Bayu Nugroho (19240384) (Coder & Researcher) 💻🔬
+  5. Dimas Bayu Nugroho (19240384) (Coder & Researcher) 💻🔬
 
 ## 🎯 Tujuan Proyek  
 Proyek ini bertujuan untuk memberikan pemahaman yang lebih mendalam mengenai distribusi, tren, dan pola kasus bunuh diri di Jawa Barat berdasarkan data desa/kelurahan. Dengan memanfaatkan Python, analisis ini mencakup eksplorasi data, visualisasi interaktif, serta identifikasi wilayah rawan dan faktor-faktor yang mungkin berkontribusi terhadap jumlah kasus. Hasil analisis diharapkan dapat menjadi dasar edukasi, advokasi, dan pengambilan keputusan dalam upaya pencegahan bunuh diri di tingkat lokal maupun regional. 🌍
