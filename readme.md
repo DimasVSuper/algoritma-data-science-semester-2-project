@@ -11,6 +11,7 @@ Analisis data kasus bunuh diri di Indonesia menggunakan Python & Github Copilot 
   3. Muhamad Rizal Gunawan (19241609) (Documenter) 📝
   4. Muhammad Fadlah Zamzami (19241089) (Documenter) 📝
   5. Dimas Bayu Nugroho (19240384) (Coder & Researcher) 💻🔬
+  6. Ardhi 
 
 ## 🎯 Tujuan Proyek  
 Proyek ini bertujuan untuk memberikan pemahaman yang lebih mendalam mengenai distribusi, tren, dan pola kasus bunuh diri di Jawa Barat berdasarkan data desa/kelurahan. Dengan memanfaatkan Python, analisis ini mencakup eksplorasi data, visualisasi interaktif, serta identifikasi wilayah rawan dan faktor-faktor yang mungkin berkontribusi terhadap jumlah kasus. Hasil analisis diharapkan dapat menjadi dasar edukasi, advokasi, dan pengambilan keputusan dalam upaya pencegahan bunuh diri di tingkat lokal maupun regional. 🌍
@@ -31,7 +32,7 @@ Proyek ini bertujuan untuk memberikan pemahaman yang lebih mendalam mengenai dis
 ## 📦 Dataset
 
 Dataset yang dianalisis: `jml_kejadian_bunuh_diri__des_kel.csv` 📄  
-[Link ke dataset](https://katalog.satudata.go.id/pl/dataset/jumlah-kejadian-bunuh-diri-berdasarkan-desa-kelurahan-di-jawa-barat)
+[Link ke dataset](https://data.go.id/dataset/dataset/jumlah-kejadian-bunuh-diri-berdasarkan-desa-kelurahan-di-jawa-barat)
 
 ## 🚀 Instalasi
 
