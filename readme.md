@@ -7,7 +7,7 @@ Analisis data kasus bunuh diri di Indonesia menggunakan Python & Github Copilot 
 # 👥 Anggota Kelompok
 
 - **Nama Anggota:**
-  1. Ali Derajat Alba Ferrari (19240752) (Assistant) 🤝
+  1. Ali Derajat Alba Ferrari (19240752) (Documenter) 📝
   2. Ahmad Al Kausary (19241316) (Assistant) 🤝
   3. Muhamad Rizal Gunawan (19241609) (Documenter) 📝
   4. Muhammad Fadlah Zamzami (19241089) (Documenter) 📝
