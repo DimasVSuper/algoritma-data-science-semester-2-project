@@ -2,7 +2,7 @@
 
 by Dimas Bayu Nugroho & github copilot 🤖
 
-Analisis data kasus bunuh diri di Indonesia menggunakan Python & DeepSeek-V3 — fokus pada eksplorasi, visualisasi, dan pemahaman distribusi kasus berdasarkan wilayah. 📊
+Analisis data kasus bunuh diri di Indonesia menggunakan Python & Github Copilot — fokus pada eksplorasi, visualisasi, dan pemahaman distribusi kasus berdasarkan wilayah. 📊
 
 # 👥 Anggota Kelompok
 
